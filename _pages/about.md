@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>2023-Now: Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;
-<br>2021-2023: Research Scientist/Tech Leader at Sony Group Corporation;
-<br>2016-2021 Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
+subtitle: <p>2023-Now: Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;<br>2021-2023: Research Scientist/Tech Leader at Sony Group Corporation;<br>2016-2021 Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
 
 profile:
   align: right
