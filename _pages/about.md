@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;<br> Ph.D. in Mathematics from University of Minnesota, Twin Cities (2021)</p>
+subtitle: <p>Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;<br> Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
 
 profile:
   align: right
@@ -22,4 +22,4 @@ I am a research scientist/tech leader at Music Foundation Model Team of Sony AI,
 
 ### Previously
 
-I earned my Ph.D. in Mathematics from the University of Minnesota -- Twin Cities in May 2021. Under the supervision of [Gilad Lerman](https://scholar.google.com/citations?user=zCzuViIAAAAJ&hl=en) and in close collaboration with [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou), my research centered on constructing outlier robustness models and developing methodologies for outlier detection. I obtained my Bachelor’s degree in Mathematics from National Tsing Hua University, Taiwan.
+I earned my Ph.D. in Mathematics from the University of Minnesota -- Twin Cities in May 2021. Under the supervision of [Gilad Lerman](https://scholar.google.com/citations?user=zCzuViIAAAAJ&hl=en) and in close collaboration with [Dongmian Zou](https://scholars.duke.edu/person/Dongmian.Zou), my research centered on constructing outlier robustness models and developing methodologies for outlier detection. I obtained my Bachelor’s degree in Mathematics from National Tsing Hua University, Taiwan in 2015.
