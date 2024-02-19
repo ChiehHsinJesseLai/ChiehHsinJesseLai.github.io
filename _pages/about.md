@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sony AI, Tokyo Japan
 
 profile:
   align: right
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research scientist/tech leader at Music Foundation Model Team of Sony AI, specializing in deep generative modeling and robustness. My research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously
+======
+I earned my Ph.D. in Mathematics from the University of Minnesota -- Twin Cities in May 2021. Under the supervision of [Gilad Lerman]([https://link-url-here.org](https://scholar.google.com/citations?user=zCzuViIAAAAJ&hl=en)) and in close collaboration with [Dongmian Zou]([https://link-url-here.org](https://scholars.duke.edu/person/Dongmian.Zou)), my research centered on constructing outlier robustness models and developing methodologies for outlier detection. I obtained my Bachelor’s degree in Mathematics from National Tsing Hua University, Taiwan.
