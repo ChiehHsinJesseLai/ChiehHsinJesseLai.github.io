@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;/ Ph.D. in Mathematics from University of Minnesota, Twin Cities
+subtitle: <p>Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;<br> Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
 
 profile:
   align: right
