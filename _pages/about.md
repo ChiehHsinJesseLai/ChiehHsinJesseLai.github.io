@@ -2,17 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;</p> 
-<p>Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
+subtitle: Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team; Ph.D. in Mathematics from University of Minnesota, Twin Cities
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
