@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <p>Research Scientist/Tech Leader at Sony AI's Music Foundation Model Team;<br> Ph.D. in Mathematics from University of Minnesota, Twin Cities</p>
 
