@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Chieh-Hsin (Jesse) LAI
     - name: Languages
-      value: English, German
+      value: English, Mandarin, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mathematics
+      institution: University of Minnesota, Twin Cities
+      year: May 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Research Interests: Theory and applications of Machine Learning, Deep Learning, Anomaly Detection, Generative Tasks, Data Analysis
+          - Advisor: Gilad Lerman
+          - Period: August 2018 – May 2021
+        - Research Interests: Steady-state of reaction-diffusion partial differential equations
+          - Advisor: Gilad Lerman
+          - Period: June 2017 – June 2018
+    - title: Bachelor in Mathematics
+      institution: National Tsing Hua University, Taiwan
+      year: June 2015
+
 
 - title: Experience
   type: time_table
