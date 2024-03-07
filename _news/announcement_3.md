@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📢 Consistency Trajectory Model (CTM)'s code is out. Check it [here](https://github.com/sony/ctm)! 
+🔥 Consistency Trajectory Model (CTM)'s code is out. Check it [here](https://github.com/sony/ctm)! 
