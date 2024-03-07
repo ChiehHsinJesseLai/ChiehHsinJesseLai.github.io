@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🔥  [Sander's great post](https://sander.ai/2023/07/20/perspectives.html) summarizes perfectly  [our theoretical foresee](https://arxiv.org/abs/2306.00367) which connects different consistency notions in Diffusion Models!
