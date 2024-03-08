@@ -17,7 +17,7 @@
       description:
         - title: Theory and applications of Deep Learning, Anomaly Detection, Robustness, Generative Models
           contents:
-            - Advisor: Gilad Lerman
+            - "Advisor:" Gilad Lerman
             - Period. August 2018 – May 2021
         - title: Reaction-Diffusion Partial Differential Equations, Harmonic Analysis
           contents:
