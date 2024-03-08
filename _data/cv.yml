@@ -47,16 +47,13 @@
       description:
         - Harmonic analysis and microlocal analysis of PDEs.
 
-
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/sony/ctm">Consistency Trajectory Model</a>
       year: 2024-
-      description: For single-step diffusion model sampling, our new model, Consistency Trajectory Model, achieves SOTA on CIFAR-10 (FID 1.73) and ImageNet 64x64 (FID 1.92). CTM offers diverse sampling options and balances computational budget with sample fidelity effectively.
     - title: <a href="https://github.com/sony/san">Slicing Adversarial Network</a>
       year: 2024-
-      description: A theoretically sound modification scheme for discriminators, although simple, enhances GAN performance, resulting in a novel class of generative models called Slicing Adversarail Network. Applying SAN to StyleGAN-XL results in SOTA performance on ImageNet 256x256 (FID: 2.14, IS: 274.20).
 
 - title: Events and Invited Talks
   type: time_table
