@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Introduction to Ordinary Differential Equations
+title: Ordinary Differential Equations
 img: assets/img/3.jpg
 importance: 2
 category: University of Minnesota
 giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I served as a teaching assistant and conducted recitation lectures for:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+- Introduction to Ordinary Differential Equations in Spring 2019 (MATH 5525)
