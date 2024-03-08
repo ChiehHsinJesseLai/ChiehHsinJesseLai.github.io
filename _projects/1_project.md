@@ -17,4 +17,4 @@ I served as a teaching assistant and conducted recitation lectures for:
 You can find the materials I designed myself here.
 
 
-Image credit: https://justequations.org/blog/why-calculus-why-indeed
+Image credit: [https://justequations.org/blog/why-calculus-why-indeed](https://justequations.org/blog/why-calculus-why-indeed)
