@@ -56,7 +56,13 @@
     - title: <a href="https://github.com/sony/san">Slicing Adversarial Network (SAN)</a>
       year: 2024-
       description: A theoretically grounded and simple modification scheme for discriminators of almost any GANs to enhance GAN performance. Applying SAN to StyleGAN-XL results in SOTA performance on ImageNet 256x256.
-
+    - title: <a href="https://github.com/sony/fp-diffusion">FP-Diffusion</a>
+      year: 2023-
+      description: Improving density estimation of diffusion models by regularizing with the underlying equation describing the temporal evolution of scores, theoretically supported.
+    - title: <a href="https://github.com/sony/gibbsddrm">GibbsDDRM</a>
+      year: 2023-
+      description: Solving blind linear inverse problems by utilizing the pre-trained diffusion models in a Gibbs sampling manner.
+      
 - title: Events and Invited Talks
   type: time_table
   contents:
