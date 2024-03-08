@@ -15,11 +15,11 @@
       institution: University of Minnesota, Twin Cities
       year: 2021
       description:
-        - title: Theory and applications of Deep Learning, Anomaly Detection, Robustness, Generative Models
+        - title: Theory and applications of deep learning, anomaly detection, robustness, generative models
           contents:
             - Advisor. Gilad Lerman 
             - Period. August 2018 – May 2021 
-        - title: Reaction-Diffusion Partial Differential Equations (PDEs), Harmonic Analysis
+        - title: Reaction-diffusion partial differential equations (PDEs), harmonic analysis
           contents:
             - Advisor. Wei-Ming Ni 
             - Period. June 2017 – June 2018 
@@ -34,28 +34,31 @@
       institution: Sony AI
       year: 2022 - Present
       description:
-        - Focusing on robustness, deep generative models (especially diffusion modles), and theoretical deep learning.
+        - Deep generative models (especially diffusion models), mathematically grounded deep learning, robustness.
     - title: Senior Research Engineer
       institution: Sony USA
       year: 2021 - 2022
       description:
-        - Focusing on robustness of deep learning.
+        - Robustness of deep learning.
 
     - title: Research Assistant
       institution: Institute of Mathematics, Academia Sinica, Taiwan
       year: 2015 - 2016
       description:
-        - Focusing on Harmonic Analysis and Microlocal Analysis of PDEs.
+        - Harmonic analysis and microlocal analysis of PDEs.
 
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/sony/ctm">Consistency Trajectory Model</a>
+      year: 2024-
+      description: For single-step diffusion model sampling, our new model, Consistency Trajectory Model, achieves SOTA on CIFAR-10 (FID 1.73) and ImageNet 64x64 (FID 1.92). CTM offers diverse sampling options and balances computational budget with sample fidelity effectively.
+    - title: <a href="https://github.com/sony/san">Slicing Adversarial Network</a>
+      year: 2024-
+      description: A theoretically sound modification scheme for discriminators, although simple, enhances GAN performance, resulting in a novel class of generative models called Slicing Adversarail Network. Applying SAN to StyleGAN-XL results in SOTA performance on ImageNet 256x256 (FID: 2.14, IS: 274.20).
 
-- title: Honors and Awards
+- title: Events and Invited Talks
   type: time_table
   contents:
     - year: 1921
@@ -66,19 +69,3 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
