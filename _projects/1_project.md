@@ -15,6 +15,7 @@ I served as a teaching assistant and conducted recitation lectures for:
 -  CSE Multivariable Calculus and Vector Analysis in Spring 2019 (MATH 2374)
 -  Honors Calculus III in Fall 2018 (MATH 2573H)
 -  Short Calculus in Spring 2018 (MATH 1142)
+-  Calculus I in Fall 2016 (MATH 1271)
 
 You can find the materials I designed myself here.
 
