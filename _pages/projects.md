@@ -2,8 +2,7 @@
 layout: page
 title: Teaching
 permalink: /projects/
-description: 
-Here, I'll summarize my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies.
+description: Here, I'll summarize my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies.
 nav: true
 nav_order: 3
 display_categories: [University of Minnesota, National Tsing Hua University]
