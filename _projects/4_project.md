@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linear Algebra
-img: assets/img/1.jpg
+img: assets/img/linear.jpg
 importance: 4
 category: University of Minnesota
 related_publications: false
