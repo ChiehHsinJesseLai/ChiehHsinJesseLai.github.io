@@ -50,21 +50,49 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/sony/ctm">Consistency Trajectory Model</a>
+    - title: <a href="https://github.com/sony/ctm">Consistency Trajectory Model (CTM)</a>
       year: 2024-
-      description: For single-step diffusion model sampling, Consistency Trajectory Model (CTM) achieves SOTA on CIFAR-10 and ImageNet 64x64. CTM offers diverse sampling options and balances computational budget with sample fidelity effectively.
-    - title: <a href="https://github.com/sony/san">Slicing Adversarial Network</a>
+      description: For single-step diffusion model sampling, CTM achieves SOTA on CIFAR-10 and ImageNet 64x64. CTM offers diverse sampling options and balances computational budget with sample fidelity effectively.
+    - title: <a href="https://github.com/sony/san">Slicing Adversarial Network (SAN)</a>
       year: 2024-
       description: A theoretically grounded and simple modification scheme for discriminators of almost any GANs to enhance GAN performance. Applying SAN to StyleGAN-XL results in SOTA performance on ImageNet 256x256.
 
 - title: Events and Invited Talks
   type: time_table
   contents:
-    - year: 1921
+    - title: Guest lecture at Duke Kushan University
+      year: Feb. 29, 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Invited talk at Department of Mathematics, National Tsing Hua University, Taiwan
+      year: Feb. 27, 2024
       items:
-        - Max Planck Medal
-
+        - Theory of Diffusion Models
+    - title: Invited talk at Appier, Taiwan
+      year: Feb. 23, 2024
+      items:
+        - Evolution of Diffusion Models, Its Birth and Applications
+    - title: Invited talk at Department of Mathematics, National Central University, Taiwan
+      year: Feb. 22, 2024
+      items:
+        - Theory of Diffusion Models
+    - title: Invited talk at Robotic Search Lab, National Central University, Taiwan
+      year: Feb. 22, 2024
+      items:
+        - Evolution of Diffusion Models, Its Birth and Applications
+    - title: Invited talk at Department of EE, National Taiwan University, Taiwan
+      year: Feb. 21, 2024
+      items:
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Invited talk at NVIDIA, Taiwan
+      year: Feb. 21, 2024
+      items:
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Expo workshop at NeurIPS 2023, New Orleans
+      year: Dec. 10, 2023
+      items:
+        - Media Content Restoration and Editing with Deep Generative Models and Beyond
+    - title: Presented at NSF ATD and AMPS workshop 2019, Washington D.C.
+      year: Oct. 21 - 23, 2019
+      items:
+        - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
