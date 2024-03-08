@@ -55,12 +55,5 @@
       "startDate": "2012-09",
       "endDate": "2015-06",
     }
-  ],
-  "events": [
-    {
-      "title": "Invited talk at NVIDIA, Taiwan",
-      "date": "2024-02-21",
-      "summary": "Evolution of Diffusion Models: From Birth to Enhanced Efficiency"
-    }
   ]
 }
