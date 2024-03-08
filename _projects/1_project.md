@@ -17,7 +17,7 @@ I served as a teaching assistant and conducted recitation lectures for:
 -  Short Calculus in Spring 2018 (MATH 1142)
 -  Calculus I in Fall 2016 (MATH 1271)
 
-You can find the materials I designed myself here.
+You can find the materials I designed myself for [Multivariable Calculus](https://github.com/ChiehHsinJesseLai/ChiehHsinJesseLai.github.io/blob/master/assets/pdf/MATH2573H_package.pdf).
 
 
 Image credit: [https://justequations.org/blog/why-calculus-why-indeed](https://justequations.org/blog/why-calculus-why-indeed)
