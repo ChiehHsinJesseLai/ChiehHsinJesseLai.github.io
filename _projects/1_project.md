@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Honor Calculus
 img: assets/img/12.jpg
 importance: 1
 category: University of Minnesota
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
