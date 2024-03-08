@@ -14,6 +14,13 @@
     - title: PhD in Mathematics
       institution: University of Minnesota, Twin Cities
       year: 2021
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Bachelor in Mathematics
       institution: National Tsing Hua University, Taiwan
       year: 2015
