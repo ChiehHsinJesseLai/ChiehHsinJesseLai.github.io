@@ -17,12 +17,12 @@
       description:
         - title: Theory and applications of Deep Learning, Anomaly Detection, Robustness, Generative Models
           contents:
-            - <p>Advisor':' Gilad Lerman</p> 
-            - <p>Period':' August 2018 – May 2021</p> 
-        - title: Reaction-Diffusion Partial Differential Equations, Harmonic Analysis
+            - Advisor. Gilad Lerman 
+            - Period. August 2018 – May 2021 
+        - title: Reaction-Diffusion Partial Differential Equations (PDEs), Harmonic Analysis
           contents:
-            - <p>Advisor:Wei-Ming Ni</p> 
-            - <p>Period:June 2017 – June 2018</p> 
+            - Advisor. Wei-Ming Ni 
+            - Period. June 2017 – June 2018 
     - title: Bachelor in Mathematics
       institution: National Tsing Hua University, Taiwan
       year: 2015
@@ -30,35 +30,23 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist
+      institution: Sony AI
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Focusing on robustness, deep generative models (especially diffusion modles), and theoretical deep learning.
+    - title: Senior Research Engineer
+      institution: Sony USA
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Focusing on robustness of deep learning.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Institute of Mathematics, Academia Sinica, Taiwan
+      year: 2015 - 2016
       description:
+        - Focusing on Harmonic Analysis and Microlocal Analysis of PDEs.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
