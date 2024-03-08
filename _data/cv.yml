@@ -15,10 +15,14 @@
       institution: University of Minnesota, Twin Cities
       year: 2021
       description:
-        - title: Description 3.
+        - title: Theory and applications of Deep Learning, Anomaly Detection, Robustness, Generative Models
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Advisor. Gilad Lerman
+            - Period. August 2018 – May 2021
+        - title: Reaction-Diffusion Partial Differential Equations, Harmonic Analysis
+          contents:
+            - Advisor. Wei-Ming Ni
+            - Period. June 2017 – June 2018
     - title: Bachelor in Mathematics
       institution: National Tsing Hua University, Taiwan
       year: 2015
