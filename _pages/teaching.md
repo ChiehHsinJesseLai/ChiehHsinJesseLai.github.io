@@ -6,6 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-<p>- Calculus, 
-  - Linear Algebra and Differential Equations, 
-  - Advanced Calculus</p>
+- Calculus; 
+- Linear Algebra and Differential Equations; 
+- Advanced Calculus
