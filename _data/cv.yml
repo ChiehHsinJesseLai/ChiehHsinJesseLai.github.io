@@ -74,6 +74,7 @@
       year: Feb. 27, 2024
       items:
         - Theory of Diffusion Models
+        - [YouTube Link](https://www.youtube.com/watch?v=9fW8nS6Lkzo) (in Mandarin)
     - title: Invited talk at Appier, Taiwan
       year: Feb. 23, 2024
       items:
@@ -94,6 +95,11 @@
       year: Feb. 21, 2024
       items:
         - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Invited talk at Learning on Graphs & Geometry (LoGG) reading group
+      year: Feb. 20, 2024
+      items:
+        - Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion
+        - [YouTube Link](https://www.youtube.com/watch?v=1RJ3ryynfx0)
     - title: Expo workshop at NeurIPS 2023, New Orleans
       year: Dec. 10, 2023
       items:
