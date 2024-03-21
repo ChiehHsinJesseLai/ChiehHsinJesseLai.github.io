@@ -8,6 +8,31 @@
     - name: Languages
       value: Mandarin, English, Japanese
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Visiting Assistant Professor
+      institution: Department of Applied Mathematics, National Yang Ming Chiao Tung University (Taiwan)
+      year: 2024 - Present
+      description:
+        - Deep learning methods for numerical methods and partial differential equations.
+    - title: Research Scientist
+      institution: Sony AI
+      year: 2022 - Present
+      description:
+        - Deep generative models (especially diffusion models), mathematically grounded deep learning, robustness.
+    - title: Senior Research Engineer
+      institution: Sony USA
+      year: 2021 - 2022
+      description:
+        - Robustness of deep learning.
+
+    - title: Research Assistant
+      institution: Institute of Mathematics, Academia Sinica, Taiwan
+      year: 2015 - 2016
+      description:
+        - Harmonic analysis and microlocal analysis of PDEs.
+
 - title: Education
   type: time_table
   contents:
@@ -26,26 +51,6 @@
     - title: Bachelor in Mathematics
       institution: National Tsing Hua University, Taiwan
       year: 2015
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Scientist
-      institution: Sony AI
-      year: 2022 - Present
-      description:
-        - Deep generative models (especially diffusion models), mathematically grounded deep learning, robustness.
-    - title: Senior Research Engineer
-      institution: Sony USA
-      year: 2021 - 2022
-      description:
-        - Robustness of deep learning.
-
-    - title: Research Assistant
-      institution: Institute of Mathematics, Academia Sinica, Taiwan
-      year: 2015 - 2016
-      description:
-        - Harmonic analysis and microlocal analysis of PDEs.
 
 - title: Open Source Projects
   type: time_table
