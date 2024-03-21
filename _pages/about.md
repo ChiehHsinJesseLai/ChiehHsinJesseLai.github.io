@@ -4,8 +4,6 @@ title: About
 permalink: /
 subtitle: <ul>
   <li>Research Scientist/Tech Leader at <a href="https://ai.sony/people/Chieh-Hsin-Lai/">Sony AI</a>'s Music Foundation Model Team;</li>
-  <li>Visiting Assistant Professor at Dept. of Applied Mathematics, National Yang Ming Chiao Tung University, Taiwan;</li>
-  <li>Ph.D. in Mathematics from University of Minnesota, Twin Cities</li>
 </ul>
 
 profile:
