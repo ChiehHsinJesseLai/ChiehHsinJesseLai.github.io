@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 ### Currently
-I am a research scientist/tech leader at Music Foundation Model Team of Sony AI, specializing in deep generative modeling and robustness. My research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
+I am a research scientist/tech leader at Music Foundation Model Team of Sony AI, specializing in deep generative modeling and robustness. In the meanwhile, I am also an upcoming Visiting Assistant Professor at Department of Applied Mathematics, National Yang Ming Chiao Tung University in Taiwan, where I will collaborate with [Professor Ming-Chih Lai](https://jupiter.math.nycu.edu.tw/~mclai/) on deep learning methods for partial differential equations.  My research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
 
 ### Previously
 
