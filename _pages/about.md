@@ -9,8 +9,6 @@ subtitle:
   <li>Ph.D. in Mathematics from University of Minnesota, Twin Cities</li>
 </ul>
 
-
-
 profile:
   align: right
   image: prof_pic.jpg
