@@ -71,15 +71,15 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
-    - title: Invited talks on Scientific Machine Learning, at National Yang Ming Chiao Tung University, Part-II
+    - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-II)
       year: April 19, 2024 
       items:
         - Diffusion Models, Insights into Their Connection with PDE solving
         - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/home#h.h9jg5bxktjpf">Webinar Page</a>  
-    - title: Invited talks on Scientific Machine Learning, at National Yang Ming Chiao Tung University, Part-I
+    - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-I)
       year: March 29, 2024 
       items:
-        - Birth and Foundation of Diffusion Models
+        - Theoretical Foundation of Diffusion Models
         - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/past-webinars">Webinar Page</a>
     - title: Guest lecture at Duke Kushan University
       year: Feb. 29, 2024
