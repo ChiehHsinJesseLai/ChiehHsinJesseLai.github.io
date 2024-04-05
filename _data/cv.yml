@@ -71,6 +71,11 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
+    - title: Invited talk at National Yang Ming Chiao Tung University webinar on Scientific Machine Learning
+      year: March 29 and April 19, 2024 
+      items:
+        - Birth of Diffusion Models, Insights into Their Connection with PDE solving
+        - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/past-webinars">Webinar Page</a>
     - title: Guest lecture at Duke Kushan University
       year: Feb. 29, 2024
       items:
