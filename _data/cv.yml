@@ -51,6 +51,7 @@
     - title: Bachelor in Mathematics
       institution: National Tsing Hua University, Taiwan
       year: 2015
+      
 - title: Events and Invited Talks
   type: time_table
   contents:
@@ -112,11 +113,11 @@
   type: time_table
   contents:
     - title: IEEE TPAMI Reviewer
-      year: 2024
+      year: 2024-
     - title: NeurIPS, ICML, ICLR Reviewer 
-      year: 2023
+      year: 2023-
     - title: ICLR Reviewer 
-      year: 2020
+      year: 2020-
         
 - title: Open Source Projects
   type: time_table
