@@ -113,17 +113,6 @@
       year: Oct. 21, 2019
       items:
         - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
-
-
-- title: Academic Services
-  type: time_table
-  contents:
-    - title: IEEE TPAMI Reviewer
-      year: 2024
-    - title: ICLR, ICML, NeurIPS Reviewer
-      year: 2023
-    - title: ICLR Reviewer
-      year: 2020
       
 - title: Open Source Projects
   type: time_table
