@@ -56,6 +56,10 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
+      - title: Invited talks at Department of Applied Mathematics, Brown University 
+        year: April 26, 2024 
+        items:
+          - Exploring the Intersection of Diffusion Models and (Partial) Differential Equation Solving
     - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-II)
       year: April 19, 2024 
       items:
@@ -111,6 +115,16 @@
         - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
 
 
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: IEEE TPAMI Reviewer
+      year: 2024
+    - title: ICLR, ICML, NeurIPS Reviewer
+      year: 2023
+    - title: ICLR Reviewer
+      year: 2020
+      
 - title: Open Source Projects
   type: time_table
   contents:
