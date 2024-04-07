@@ -104,11 +104,6 @@
       items:
         - Consistency Trajectory Models, Learning Probability Flow ODE Trajectory of Diffusion
         - <a href="https://www.youtube.com/watch?v=1RJ3ryynfx0">YouTube Link</a>. You can find a list of credits for the materials used in the video here (under construction...).
-    - title: Organized Expo workshop at NeurIPS 2023, New Orleans
-      year: Dec. 10, 2023
-      items:
-        - Media Content Restoration and Editing with Deep Generative Models and Beyond
-        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
     - title: Presented at NSF ATD and AMPS workshop 2019, Washington D.C.
       year: Oct. 21, 2019
       items:
@@ -121,7 +116,7 @@
       year: 2024
     - title: ICLR, ICML, NeurIPS Reviewer
       year: 2021-
-    - title: Expo workshop at NeurIPS 2023, New Orleans
+    - title: Organized Expo workshop at NeurIPS 2023, New Orleans
       year: Dec. 10, 2023
       description: 
         - Media Content Restoration and Editing with Deep Generative Models and Beyond
