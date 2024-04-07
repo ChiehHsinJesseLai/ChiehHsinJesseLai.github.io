@@ -114,6 +114,18 @@
       items:
         - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
 
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: IEEE TPAMI Reviewer 
+      year: 2024
+    - title: ICLR, ICML, NeurIPS Reviewer
+      year: 2021-
+    - title: Expo workshop at NeurIPS 2023, New Orleans
+      year: Dec. 10, 2023
+      description: 
+        - Media Content Restoration and Editing with Deep Generative Models and Beyond
+        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
 
 
 - title: Open Source Projects
