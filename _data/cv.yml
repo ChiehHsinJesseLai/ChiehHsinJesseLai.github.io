@@ -60,6 +60,7 @@
       year: April 26, 2024 
       items:
         - Exploring the Intersection of Diffusion Models and (Partial) Differential Equation Solving
+        - <a href="https://youtu.be/h6d7ayfMSww?si=h_V3zlOUzYaiDJ4M&t=3739">Webinar Page</a>
     - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-II)
       year: April 19, 2024 
       items:
@@ -112,16 +113,25 @@
 - title: Academic Services
   type: time_table
   contents:
-    - title: IEEE TPAMI Reviewer 
-      year: 2024
-    - title: ICLR, ICML, NeurIPS Reviewer
-      year: 2021-
+    - title: Tutorial at ISMIR 2024
+      year: TBD, 2024
+      description: 
+        - From White Noise to Symphony🎼 -- Diffusion Models for Music and Sound
+        - <a href="https://sites.google.com/view/diffusion-tutorial-ismir24/home">ICLR Page</a>  
+    - title: Organized social event at ICLR 2024, Vienna
+      year: May 7, 2024
+      description: 
+        - Recent advances on diffusion and GAN
+        - <a href="https://iclr.cc/virtual/2024/social/22316">ICLR Page</a>  
     - title: Organized Expo workshop at NeurIPS 2023, New Orleans
       year: Dec. 10, 2023
       description: 
         - Media Content Restoration and Editing with Deep Generative Models and Beyond
         - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
-
+    - title: IEEE TPAMI, ACM TKDD Reviewer 
+      year: 2024
+    - title: ICLR, ICML, NeurIPS Reviewer
+      year: 2021-
 
 - title: Open Source Projects
   type: time_table
