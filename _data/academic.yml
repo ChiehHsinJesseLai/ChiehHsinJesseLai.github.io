@@ -1,0 +1,80 @@
+     
+- title: Events and Invited Talks
+  type: time_table
+  contents:
+    - title: Invited talks at Crunch Seminar of Division of Applied Mathematics at Brown University
+      year: April 26, 2024 
+      items:
+        - Exploring the Intersection of Diffusion Models and (Partial) Differential Equation Solving
+        - <a href="https://youtu.be/h6d7ayfMSww?si=h_V3zlOUzYaiDJ4M&t=3739">YouTube Link</a>
+    - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-II)
+      year: April 19, 2024 
+      items:
+        - Diffusion Models, Insights into Their Connection with PDE solving
+        - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/home#h.h9jg5bxktjpf">Webinar Page</a>  
+    - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-I)
+      year: March 29, 2024 
+      items:
+        - Theoretical Foundation of Diffusion Models
+        - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/past-webinars">Webinar Page</a>
+    - title: Guest lecture at Duke Kushan University
+      year: Feb. 29, 2024
+      items:
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Invited talk at Department of Mathematics, National Tsing Hua University, Taiwan
+      year: Feb. 27, 2024
+      items:
+        - Theory of Diffusion Models
+        - <a href="https://www.youtube.com/watch?v=9fW8nS6Lkzo">YouTube Link</a> (in Mandarin). You can find a list of credits for the materials used in the video here (under construction...).
+    - title: Invited talk at Appier, Taiwan
+      year: Feb. 23, 2024
+      items:
+        - Evolution of Diffusion Models, Its Birth and Applications
+    - title: Invited talk at Department of Mathematics, National Central University, Taiwan
+      year: Feb. 22, 2024
+      items:
+        - Theory of Diffusion Models
+    - title: Invited talk at Robotic Search Lab, National Central University, Taiwan
+      year: Feb. 22, 2024
+      items:
+        - Evolution of Diffusion Models, Its Birth and Applications
+    - title: Invited talk at Department of EE, National Taiwan University, Taiwan
+      year: Feb. 21, 2024
+      items:
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Invited talk at NVIDIA, Taiwan
+      year: Feb. 21, 2024
+      items:
+        - Evolution of Diffusion Models, From Birth to Enhanced Efficiency and Controllability
+    - title: Presented at Learning on Graphs & Geometry (LoGG) reading group
+      year: Feb. 20, 2024
+      items:
+        - Consistency Trajectory Models, Learning Probability Flow ODE Trajectory of Diffusion
+        - <a href="https://www.youtube.com/watch?v=1RJ3ryynfx0">YouTube Link</a>. You can find a list of credits for the materials used in the video here (under construction...).
+    - title: Presented at NSF ATD and AMPS workshop 2019, Washington D.C.
+      year: Oct. 21, 2019
+      items:
+        - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
+
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: Tutorial at ISMIR 2024
+      year: TBD, 2024
+      description: 
+        - From White Noise to Symphony🎼 -- Diffusion Models for Music and Sound
+        - <a href="https://sites.google.com/view/diffusion-tutorial-ismir24/home">Our official webpage</a>  
+    - title: Organized social event at ICLR 2024, Vienna
+      year: May 7, 2024
+      description: 
+        - Recent advances on diffusion and GAN
+        - <a href="https://iclr.cc/virtual/2024/social/22316">ICLR Page</a>  
+    - title: Organized Expo workshop at NeurIPS 2023, New Orleans
+      year: Dec. 10, 2023
+      description: 
+        - Media Content Restoration and Editing with Deep Generative Models and Beyond
+        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
+    - title: IEEE TPAMI, ACM TKDD Reviewer 
+      year: 2024
+    - title: ICLR, ICML, NeurIPS Reviewer
+      year: 2021-
