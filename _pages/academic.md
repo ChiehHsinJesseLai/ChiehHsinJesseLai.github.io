@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: academic
 permalink: /academic/
 title: Academic Activities
 nav: true
