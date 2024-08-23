@@ -56,6 +56,10 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
+    - title: Invited talks at Cognitive Developmental Robotics Lab at University of Tokyo
+      year: August 9, 2024 
+      items:
+        - Introduction to Diffusion Models and Its Applications in Other Disciplines
     - title: Invited talks at Crunch Seminar of Division of Applied Mathematics at Brown University
       year: April 26, 2024 
       items:
