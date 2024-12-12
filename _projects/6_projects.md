@@ -2,7 +2,7 @@
 layout: page
 title: Tutorial on Diffusion Models @ ISMIR 2024
 img: assets/img/cal.jpg
-importance: 1
+importance: 2
 category: Talks
 related_publications: false
 ---
