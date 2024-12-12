@@ -26,7 +26,6 @@
       year: 2021 - 2022
       description:
         - Robustness of deep learning.
-
     - title: Research Assistant
       institution: Institute of Mathematics, Academia Sinica, Taiwan
       year: 2015 - 2016
@@ -55,17 +54,7 @@
       
 - title: Events and Invited Talks
   type: time_table
-  contents:
-    - title: Invited talk at Future of Hybrid Society, How Digital Twin and XR Will Shape Our Society
-      year: Dec. 3, 2024 
-      items:
-        - Diffusion Models × Digital Twins -- Foundations and Applications 
-        - <a href="https://asia.siggraph.org/2024/presentation/?id=bof_127&sess=sess228#038;sess=sess228%23038;sess=sess228">Webpage</a>
-    - title: Invited talk at LoG 2024 Suzhou Meetup @ Duke Kunshan University
-      year: Nov. 29, 2024 
-      items:
-        - Evolution of Diffusion Models -- From Birth to Enhanced Efficiency and Controllability
-        - <a href="https://log2024kunshan.github.io/log24dku/#Invited%20Speakers">Webpage</a>        
+  contents: 
     - title: Invited talk at Industrial Problems Seminar, College of Science & Engineering at University of Minnesota
       year: Nov. 15, 2024 
       items:
