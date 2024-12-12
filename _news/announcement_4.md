@@ -8,5 +8,5 @@ related_posts: false
 🔥 Organizing and giving tutorial on Diffusion Models @ ISMIR 2024!
 
 - Project page: https://sites.google.com/view/diffusion-tutorial-ismir24/home
-- Presentation materials: https://github.com/ChiehHsinJesseLai/ISMIR24DiffusionModelTutorial/tree/main
+- Presentation materials: https://github.com/ChiehHsinJesseLai/ISMIR24DiffusionModelTutorial
   
