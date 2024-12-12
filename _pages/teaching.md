@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching and presentation materials/
-title: teaching and presentation materials
+permalink: /teaching or presentation materials/
+title: Teaching or Presentation Materials
 nav: false
 nav_order: 6
 ---
