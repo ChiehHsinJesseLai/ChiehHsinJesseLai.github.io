@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-14 07:59:00-0400
+date: 2024-12-3 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-🔥 Consistency Trajectory Model (CTM)'s code is out. Check it [here](https://github.com/sony/ctm)! 
+🥳 NeurIPS 2024 accepted papers: [PaGoDA](https://arxiv.org/abs/2405.14822), [GenWarp](https://genwarp-nvs.github.io/)!
