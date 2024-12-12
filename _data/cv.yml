@@ -56,7 +56,7 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
-    - title: Invited talk at Future of Hybrid Society: How Digital Twin and XR Will Shape Our Society
+    - title: Invited talk at Future of Hybrid Society, How Digital Twin and XR Will Shape Our Society
       year: Dec. 3, 2024 
       items:
         - Diffusion Models × Digital Twins -- Foundations and Applications 
@@ -72,11 +72,6 @@
         - Evolution of Diffusion Models -- From Birth to Enhanced Efficiency and Controllability
         - <a href="https://cse.umn.edu/ima/events/evolution-diffusion-models-birth-enhanced-efficiency-and-controllability">Webpage</a>
         - <a href="https://www.youtube.com/watch?v=B-d_3xX6ss4">YouTube Link</a>        
-    - title: Invited talk at KIAS Center for AI and Natural Sciences 2024 Fall Workshop
-      year: Nov. 6, 2024 
-      items:
-        - Enhancing Accuracy and Efficiency in Diffusion Models
-        - <a href="http://events.kias.re.kr/h/AI2024/?pageNo=5624">Flyer</a>
     - title: Invited talk at KIAS Center for AI and Natural Sciences 2024 Fall Workshop
       year: Nov. 6, 2024 
       items:
