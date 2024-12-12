@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks or Teaching
+title: Talks and Teaching Materials
 permalink: /projects/
 description: Here, I summarize (1) materials of my talks, and (2) all my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies. Please click in individual pages for details.
 nav: true
