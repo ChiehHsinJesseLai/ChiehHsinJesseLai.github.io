@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching
+title: Talks or Teaching
 permalink: /projects/
-description: Here, I summarize all my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies. Please click in individual pages for details.
+description: Here, I summarize (1) materials of my talks, and (2) all my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies. Please click in individual pages for details.
 nav: true
 nav_order: 3
-display_categories: [University of Minnesota, National Tsing Hua University]
+display_categories: [Talks, University of Minnesota, National Tsing Hua University]
 horizontal: false
 ---
 
