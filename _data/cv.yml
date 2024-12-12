@@ -56,6 +56,22 @@
 - title: Events and Invited Talks
   type: time_table
   contents:
+    - title: Invited talk at Future of Hybrid Society: How Digital Twin and XR Will Shape Our Society
+      year: Dec. 3, 2024 
+      items:
+        - Diffusion Models × Digital Twins -- Foundations and Applications 
+        - <a href="https://asia.siggraph.org/2024/presentation/?id=bof_127&sess=sess228#038;sess=sess228%23038;sess=sess228">Webpage</a>
+    - title: Invited talk at LoG 2024 Suzhou Meetup @ Duke Kunshan University
+      year: Nov. 29, 2024 
+      items:
+        - Evolution of Diffusion Models -- From Birth to Enhanced Efficiency and Controllability
+        - <a href="https://log2024kunshan.github.io/log24dku/#Invited%20Speakers">Webpage</a>        
+    - title: Invited talk at Industrial Problems Seminar, College of Science & Engineering at University of Minnesota
+      year: Nov. 15, 2024 
+      items:
+        - Evolution of Diffusion Models -- From Birth to Enhanced Efficiency and Controllability
+        - <a href="https://cse.umn.edu/ima/events/evolution-diffusion-models-birth-enhanced-efficiency-and-controllability">Webpage</a>
+        - <a href="https://www.youtube.com/watch?v=B-d_3xX6ss4">YouTube Link</a>        
     - title: Invited talk at KIAS Center for AI and Natural Sciences 2024 Fall Workshop
       year: Nov. 6, 2024 
       items:
@@ -67,12 +83,12 @@
         - Enhancing Accuracy and Efficiency in Diffusion Models
         - <a href="http://events.kias.re.kr/h/AI2024/?pageNo=5624">Flyer</a>
     - title: Invited talk at Tohoku University, AIE - WISE Program for AI Electronics 
-      year: October 16, 2024 
+      year: Oct. 16, 2024 
       items:
         - Foundations and Recent Advances in Deep Generative Modeling -- Diffusion and GAN
         - <a href="https://www.aie.tohoku.ac.jp/data/news/20241016_kouenkai.pdf">Flyer</a>
     - title: Invited talks at Cognitive Developmental Robotics Lab at University of Tokyo
-      year: August 9, 2024 
+      year: Aug. 9, 2024 
       items:
         - Introduction to Diffusion Models and Its Applications in Other Disciplines
     - title: Invited talks at Crunch Seminar of Division of Applied Mathematics at Brown University
