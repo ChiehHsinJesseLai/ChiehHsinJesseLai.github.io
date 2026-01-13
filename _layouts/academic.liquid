@@ -4,79 +4,44 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">
+      {{ page.title }}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>
-    {%- assign wanted_titles = "Academic Services|Events and Invited Talks" | split: "|" -%}
-    {%- assign all_sections = site.data.cv -%}
+    <div class="cv">
+      {%- assign wanted_titles = "Events and Invited Talks|Academic Services" | split: "|" -%}
 
-    {%- comment -%}
-    Render in the exact order we want, and ONLY these two sections.
-    {%- endcomment -%}
-
-    {%- for wanted in wanted_titles -%}
-      {%- for section in all_sections -%}
-        {%- if section.title == wanted -%}
-          <h3>{{ section.title }}</h3>
-
-          {%- if section.type == "time_table" -%}
-            <ul class="cv-time-table" style="list-style: none; padding-left: 0;">
-              {%- for item in section.contents -%}
-                <li style="margin-bottom: 1rem;">
-                  {%- if item.year -%}
-                    <div style="font-weight: 600;">{{ item.year }}</div>
-                  {%- endif -%}
-
-                  {%- if item.title -%}
-                    <div style="margin-top: 0.25rem;">
-                      <strong>{{ item.title }}</strong>
-                    </div>
-                  {%- endif -%}
-
-                  {%- if item.institution -%}
-                    <div style="margin-top: 0.15rem;">
-                      {{ item.institution | markdownify }}
-                    </div>
-                  {%- endif -%}
-
-                  {%- if item.description -%}
-                    <ul style="margin-top: 0.35rem;">
-                      {%- for d in item.description -%}
-                        <li>{{ d | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-                      {%- endfor -%}
-                    </ul>
-                  {%- endif -%}
-                </li>
-              {%- endfor -%}
-            </ul>
-
-          {%- elsif section.type == "list" -%}
-            <ul>
-              {%- for item in section.contents -%}
-                <li>{{ item | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-              {%- endfor -%}
-            </ul>
-
-          {%- elsif section.type == "map" -%}
-            <dl>
-              {%- for item in section.contents -%}
-                <dt>{{ item.name }}</dt>
-                <dd>{{ item.value | markdownify }}</dd>
-              {%- endfor -%}
-            </dl>
-
-          {%- else -%}
-            {%- comment -%}
-            Fallback: just dump the section content if a new type appears.
-            {%- endcomment -%}
-            {{ section.contents | inspect }}
+      {%- for wanted in wanted_titles -%}
+        {%- for entry in site.data.cv -%}
+          {%- if entry.title == wanted -%}
+            <a class="anchor" id="{{ entry.title }}"></a>
+            <div class="card mt-3 p-3">
+              <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+              <div>
+                {% if entry.type == 'list' %}
+                  {% include cv/list.liquid entry=entry %}
+                {% elsif entry.type == 'map' %}
+                  {% include cv/map.liquid entry=entry %}
+                {% elsif entry.type == 'nested_list' %}
+                  {% include cv/nested_list.liquid entry=entry %}
+                {% elsif entry.type == 'time_table' %}
+                  {% include cv/time_table.liquid entry=entry %}
+                {% elsif entry.type == 'list_groups' %}
+                  {% include cv/list_groups.liquid entry=entry %}
+                {% else %}
+                  {{ entry.contents }}
+                {% endif %}
+              </div>
+            </div>
           {%- endif -%}
-
-          <hr/>
-        {%- endif -%}
+        {%- endfor -%}
       {%- endfor -%}
-    {%- endfor -%}
 
+    </div>
   </article>
 </div>
