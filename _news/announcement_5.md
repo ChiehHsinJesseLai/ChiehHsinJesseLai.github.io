@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🔥 Excited to organize and present a tutorial on Diffusion Models @ ICASSP 2025! Details coming soon!
+🔥 Excited to organize and present a Diffusion Models tutorial at ICASSP 2025 (Hyderabad) and IJCNN 2025 (Rome)!
