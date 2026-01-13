@@ -142,10 +142,25 @@
 - title: Academic Services
   type: time_table
   contents:
+    - title: Area Chair of ICLR, ICML, NeurIPS
+      year: 2025-
+    - title: Elected member of IEEE Machine Learning for Signal Processing Technical Committee
+      year: 2025-
+    - title: EXPO Workshop at NeurIPS 2025
+      year: Dec 2, 2025
+      description: 
+        - Creative and Protective AI for Music and Entertainment
+        - <a href="https://neurips.cc/virtual/2025/loc/san-diego/128679">NeurIPS Page</a> 
+    - title: Tutorial at IJCNN 2025
+      year: June 30, 2025
+      description: 
+        - Diffusion Models and Flows
+        - <a href="https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home">Our official webpage</a>  
     - title: Tutorial at ICASSP 2025
-      year: TBD, 2025
+      year: April 7, 2025
       description: 
         - Transforming Chaos into Harmony -- Diffusion Models in Audio Signal Processing
+        - <a href="https://sites.google.com/view/diffusionmodeltutorialicassp25/home">Our official webpage</a>
     - title: Organized Expo Workshop at NeurIPS 2024, Vancouver
       year: Dec. 10, 2024
       description: 
