@@ -60,7 +60,7 @@
     - title: Elected member of IEEE Machine Learning for Signal Processing Technical Committee
       year: 2025-
     - title: Organized EXPO Workshop at NeurIPS 2025
-      year: Dec 2, 2025
+      year: Dec. 2, 2025
       description: 
         - Creative and Protective AI for Music and Entertainment
         - <a href="https://neurips.cc/virtual/2025/loc/san-diego/128679">NeurIPS Page</a> 
@@ -70,7 +70,7 @@
         - Diffusion Models and Flows
         - <a href="https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home">Our official webpage</a>  
     - title: Organized and Delivered Tutorial at ICASSP 2025
-      year: April 7, 2025
+      year: Apr. 7, 2025
       description: 
         - Transforming Chaos into Harmony -- Diffusion Models in Audio Signal Processing
         - <a href="https://sites.google.com/view/diffusionmodeltutorialicassp25/home">Our official webpage</a>
@@ -103,11 +103,11 @@
   type: time_table
   contents: 
     - title: Invited talks at the Korea Institute for Advanced Study (KIAS), Hanyang University, and Sungkyunkwan University (SKKU) in Seoul
-      year: Sep 1- Sep 4, 2025
+      year: Sep. 1- Sep. 4, 2025
       items:
         - Diffusion Models and Flows
     - title: Invited talks at the National Taiwan University (NTU), National Tsing Hua University (NTHU), and National Yang Ming Chiao Tung University (NYCU) in Taiwan.
-      year: April 14- April 18, 2025
+      year: Apr. 14- Apr. 18, 2025
       items:
         - Diffusion Models and Flows
     - title: Invited talk at Future of Hybrid Society, How Digital Twin and XR Will Shape Our Society
@@ -141,12 +141,12 @@
       items:
         - Introduction to Diffusion Models and Its Applications in Other Disciplines
     - title: Invited talks at Crunch Seminar of Division of Applied Mathematics at Brown University
-      year: April 26, 2024 
+      year: Apr. 26, 2024 
       items:
         - Exploring the Intersection of Diffusion Models and (Partial) Differential Equation Solving
         - <a href="https://youtu.be/h6d7ayfMSww?si=h_V3zlOUzYaiDJ4M&t=3739">YouTube Link</a>
     - title: Invited talks on Scientific Machine Learning at National Yang Ming Chiao Tung University (Part-II)
-      year: April 19, 2024 
+      year: Apr. 19, 2024 
       items:
         - Diffusion Models, Insights into Their Connection with PDE solving
         - <a href="https://sites.google.com/nycu.edu.tw/nycu-sciml/home#h.h9jg5bxktjpf">Webinar Page</a>  
