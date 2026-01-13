@@ -51,6 +51,53 @@
       institution: National Tsing Hua University, Taiwan
       year: 2015
 
+
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: Area Chair of ICLR, ICML, NeurIPS
+      year: 2025-
+    - title: Elected member of IEEE Machine Learning for Signal Processing Technical Committee
+      year: 2025-
+    - title: EXPO Workshop at NeurIPS 2025
+      year: Dec 2, 2025
+      description: 
+        - Creative and Protective AI for Music and Entertainment
+        - <a href="https://neurips.cc/virtual/2025/loc/san-diego/128679">NeurIPS Page</a> 
+    - title: Tutorial at IJCNN 2025
+      year: June 30, 2025
+      description: 
+        - Diffusion Models and Flows
+        - <a href="https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home">Our official webpage</a>  
+    - title: Tutorial at ICASSP 2025
+      year: April 7, 2025
+      description: 
+        - Transforming Chaos into Harmony -- Diffusion Models in Audio Signal Processing
+        - <a href="https://sites.google.com/view/diffusionmodeltutorialicassp25/home">Our official webpage</a>
+    - title: Organized Expo Workshop at NeurIPS 2024, Vancouver
+      year: Dec. 10, 2024
+      description: 
+        - Efficient Content Creation and Editing through Deep Generative Models
+        - <a href="https://nips.cc/Expo/Conferences/2024/workshop/100325">NeurIPS Page</a>        
+    - title: Tutorial at ISMIR 2024
+      year: Nov. 10, 2024
+      description: 
+        - From White Noise to Symphony🎼 -- Diffusion Models for Music and Sound
+        - <a href="https://sites.google.com/view/diffusion-tutorial-ismir24/home">Our official webpage</a>  
+    - title: Organized Social Event at ICLR 2024, Vienna
+      year: May 7, 2024
+      description: 
+        - Recent advances on diffusion and GAN
+        - <a href="https://iclr.cc/virtual/2024/social/22316">ICLR Page</a>  
+    - title: Organized Expo Workshop at NeurIPS 2023, New Orleans
+      year: Dec. 10, 2023
+      description: 
+        - Media Content Restoration and Editing with Deep Generative Models and Beyond
+        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
+    - title: IEEE TPAMI, ACM TKDD Reviewer 
+      year: 2024
+    - title: ICLR, ICML, NeurIPS Reviewer
+      year: 2021-
       
 - title: Events and Invited Talks
   type: time_table
@@ -139,52 +186,6 @@
       items:
         - Robust Subspace Recovery Layer for Unsupervised Anomaly Detection
 
-- title: Academic Services
-  type: time_table
-  contents:
-    - title: Area Chair of ICLR, ICML, NeurIPS
-      year: 2025-
-    - title: Elected member of IEEE Machine Learning for Signal Processing Technical Committee
-      year: 2025-
-    - title: EXPO Workshop at NeurIPS 2025
-      year: Dec 2, 2025
-      description: 
-        - Creative and Protective AI for Music and Entertainment
-        - <a href="https://neurips.cc/virtual/2025/loc/san-diego/128679">NeurIPS Page</a> 
-    - title: Tutorial at IJCNN 2025
-      year: June 30, 2025
-      description: 
-        - Diffusion Models and Flows
-        - <a href="https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home">Our official webpage</a>  
-    - title: Tutorial at ICASSP 2025
-      year: April 7, 2025
-      description: 
-        - Transforming Chaos into Harmony -- Diffusion Models in Audio Signal Processing
-        - <a href="https://sites.google.com/view/diffusionmodeltutorialicassp25/home">Our official webpage</a>
-    - title: Organized Expo Workshop at NeurIPS 2024, Vancouver
-      year: Dec. 10, 2024
-      description: 
-        - Efficient Content Creation and Editing through Deep Generative Models
-        - <a href="https://nips.cc/Expo/Conferences/2024/workshop/100325">NeurIPS Page</a>        
-    - title: Tutorial at ISMIR 2024
-      year: Nov. 10, 2024
-      description: 
-        - From White Noise to Symphony🎼 -- Diffusion Models for Music and Sound
-        - <a href="https://sites.google.com/view/diffusion-tutorial-ismir24/home">Our official webpage</a>  
-    - title: Organized Social Event at ICLR 2024, Vienna
-      year: May 7, 2024
-      description: 
-        - Recent advances on diffusion and GAN
-        - <a href="https://iclr.cc/virtual/2024/social/22316">ICLR Page</a>  
-    - title: Organized Expo Workshop at NeurIPS 2023, New Orleans
-      year: Dec. 10, 2023
-      description: 
-        - Media Content Restoration and Editing with Deep Generative Models and Beyond
-        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
-    - title: IEEE TPAMI, ACM TKDD Reviewer 
-      year: 2024
-    - title: ICLR, ICML, NeurIPS Reviewer
-      year: 2021-
 
 - title: Open Source Projects
   type: time_table
