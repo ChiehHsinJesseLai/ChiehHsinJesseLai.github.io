@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p> <ul> <li> Research Scientist/Tech Leader at <a href="https://ai.sony/people/Chieh-Hsin-Lai/">Sony AI</a>'s Music Foundation Model Team; </li>  <li> Visiting Assistant Professor at Department of Applied Mathematics, National Yang Ming Chiao Tung University, Taiwan; </li>  <li> Ph.D. in Mathematics from University of Minnesota, Twin Cities </li>  </ul> </p> 
+subtitle: <p> <ul> <li> Staff Research Scientist/Tech Leader at <a href="https://ai.sony/people/Chieh-Hsin-Lai/">Sony AI</a>'s Music Foundation Model Team; </li>  <li> Visiting Assistant Professor at Department of Applied Mathematics, National Yang Ming Chiao Tung University, Taiwan; </li>  <li> Ph.D. in Mathematics from University of Minnesota, Twin Cities </li>  </ul> </p> 
 
 profile:
   align: right
@@ -18,9 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 ### Currently
-I am a research scientist and tech lead at Sony AI's Music Foundation Model Team, focusing on deep generative modeling and robustness, particularly the foundations of diffusion models in collaboration with [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/). Additionally, I am a Visiting Assistant Professor at National Yang Ming Chiao Tung University's Applied Mathematics Department, where I collaborate and supervise students with [Prof. Ming-Chih Lai](https://jupiter.math.nycu.edu.tw/~mclai/) on deep learning methods for partial differential equations.  
+I am a staff research scientist and tech lead at Sony AI's Music Foundation Model Team, focusing on deep generative modeling and robustness, particularly the foundations of diffusion models in collaboration with [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/). Additionally, I am a Visiting Assistant Professor at National Yang Ming Chiao Tung University's Applied Mathematics Department, where I collaborate and supervise students with [Prof. Ming-Chih Lai](https://jupiter.math.nycu.edu.tw/~mclai/) on deep learning methods for partial differential equations.  
 
 My current research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
+
+I lead and released the book **[The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/)** with [Yang Song](https://theyangsong.net/), [Dongjun Kim](https://dongjunkim.me/), [Yuki Mitsufuji](https://yukimitsufuji.github.io/), and [Stefano Ermon](https://cs.stanford.edu/~ermon/). It offers a principled, systematic guide to diffusion modeling and connects these foundations to modern few-step generative methods, including **flow map models**.
+
 
 ### Previously
 
