@@ -22,7 +22,7 @@ I am a staff research scientist and tech lead at Sony AI's Music Foundation Mode
 
 My current research centers on enhancing diffusion models, emphasizing sample quality/diversity, sampling speed, and controllable generation. I am also interested about inverse problems, particularly in media restoration, utilizing generative models. Additionally, I explore mathematically explainable AI, aiming to unravel the intricacies of artificial intelligence through rigorous mathematical frameworks.
 
-I lead and released the book **[The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/)** with [Yang Song](https://theyangsong.net/), [Dongjun Kim](https://dongjunkim.me/), [Yuki Mitsufuji](https://yukimitsufuji.github.io/), and [Stefano Ermon](https://cs.stanford.edu/~ermon/). It offers a principled, systematic guide to diffusion modeling and connects these foundations to modern few-step generative methods, including **flow map models**.
+I lead and released the book **[The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/)** with [Yang Song](https://yang-song.net/), [Dongjun Kim](https://sites.google.com/view/dongjun-kim), [Yuki Mitsufuji](https://www.yukimitsufuji.com/), and [Stefano Ermon](https://cs.stanford.edu/~ermon/). It offers a principled, systematic guide to diffusion modeling and connects these foundations to modern few-step generative methods, including *flow map models*.
 
 
 ### Previously
