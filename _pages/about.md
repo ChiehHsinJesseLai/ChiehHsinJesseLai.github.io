@@ -15,11 +15,8 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
+show_last_updated: true
 ---
-
-<div class="gh-last-updated">
-  Last updated: {{ site.time | date: "%Y-%m-%d" }}
-</div>
 
 ### Currently
 I am a staff research scientist and tech lead at Sony AI's Music Foundation Model Team, focusing on deep generative modeling and robustness, particularly the foundations of diffusion models in collaboration with [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/). Additionally, I am a Visiting Assistant Professor at National Yang Ming Chiao Tung University's Applied Mathematics Department, where I collaborate and supervise students with [Prof. Ming-Chih Lai](https://jupiter.math.nycu.edu.tw/~mclai/) on deep learning methods for partial differential equations.  
