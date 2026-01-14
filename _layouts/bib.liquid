@@ -46,9 +46,7 @@
 
         {%- comment -%} Second-line note badge (outlined, like “Oral”) {%- endcomment -%}
         {%- if entry.note and entry.note != "" -%}
-          <abbr class="badge badge-note" {% if venue_color %}style="color: {{ venue_color }};"{% endif %}>
-            {{ entry.note }}
-          </abbr>
+          <abbr class="badge badge-note">{{ entry.note }}</abbr>
         {%- endif -%}
 
       {% endif %}
