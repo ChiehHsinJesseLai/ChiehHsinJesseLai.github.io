@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Talks and Teaching Materials
+title: Books, Talks, and Teaching Materials
 permalink: /projects/
-description: Here, I summarize (1) materials of my talks, and (2) all my teaching experience at the University of Minnesota during my PhD, and at National Tsing Hua University during my undergraduate studies. Please click in individual pages for details.
+description: This page hosts (1) the book **The Principles of Diffusion Models**, (2) materials from my talks, and (3) a summary of my teaching experience at the University of Minnesota during my PhD studies and at National Tsing Hua University during my undergraduate studies. Please click on the individual pages for details.
 nav: true
 nav_order: 3
 display_categories: [Talks, University of Minnesota, National Tsing Hua University]
