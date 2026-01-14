@@ -28,13 +28,16 @@ $max-content-width: {{ site.max_width }};
   border: 2px solid #ff7f0e !important;
   color: #ff7f0e !important;
 
-  padding: 0.35em 0.6em;
+  /* slightly tighter */
+  padding: 0.22em 0.50em;
   border-radius: 0.25rem;
   font-weight: 700;
-  font-size: 0.9rem;
-  line-height: 1.05;
-  text-align: center;
 
+  /* smaller text */
+  font-size: 0.75rem;   /* try 0.72–0.78rem */
+  line-height: 1.0;
+
+  text-align: center;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
 
   white-space: normal;
