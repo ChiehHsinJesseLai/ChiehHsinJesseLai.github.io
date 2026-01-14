@@ -19,10 +19,15 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
-.abbr-note {
-  margin-top: 4px;
-  font-size: 0.85em;
-  color: #888;
-  line-height: 1.1;
-  text-align: center; /* looks nice under the badge */
+/* second-line badge under the venue badge (e.g., Oral / Best Industry Paper) */
+.publications .abbr .badge-note {
+  display: inline-block;
+  margin-top: 6px;
+  background-color: var(--global-bg-color); /* works in light/dark */
+  border: 2px solid currentColor;          /* uses the inline "color: ..." */
+  color: inherit;
+  font-weight: 600;
+  line-height: 1.05;
+  text-align: center;
+  white-space: normal;
 }
