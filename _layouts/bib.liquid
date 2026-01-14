@@ -29,11 +29,16 @@
             {% if venue_style %}
               {{ venue_style }}
             {% endif %}
-            ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
           >
+            <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+          </abbr>
         {% else %}
           <abbr class="badge">{{ entry.abbr }}</abbr>
         {% endif %}
+
+        {%- if entry.note and entry.note != "" -%}
+          <div class="abbr-note">{{ entry.note }}</div>
+        {%- endif -%}
       {% endif %}
     </div>
   {% endif %}
