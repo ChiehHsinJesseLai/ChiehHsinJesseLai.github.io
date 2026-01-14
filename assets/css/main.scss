@@ -19,15 +19,28 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
-/* second-line badge under the venue badge (e.g., Oral / Best Industry Paper) */
+/* Second-line note badge (e.g., Oral / Best Industry Paper) */
 .publications .abbr .badge-note {
   display: inline-block;
   margin-top: 6px;
-  background-color: var(--global-bg-color); /* works in light/dark */
-  border: 2px solid currentColor;          /* uses the inline "color: ..." */
-  color: inherit;
-  font-weight: 600;
+
+  /* visual style like your screenshot */
+  background: #fff;
+  border: 2px solid #ff7f0e;
+  color: #ff7f0e;
+
+  padding: 0.35em 0.6em;
+  border-radius: 0.25rem; /* slightly rounded */
+  font-weight: 700;
+  font-size: 0.9rem;
   line-height: 1.05;
   text-align: center;
+
+  /* the shadow */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18);
+
+  /* allow wrapping for long notes like "Best Industry Paper" */
   white-space: normal;
+  max-width: 120px;   /* adjust if you want wider/narrower */
 }
+
