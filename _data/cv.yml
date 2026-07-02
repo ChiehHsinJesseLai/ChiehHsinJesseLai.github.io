@@ -55,53 +55,80 @@
 - title: Academic Services
   type: time_table
   contents:
+    - title: Action Editor of TMLR
+      year: 2026-
+
+    - title: Organized and Delivered Tutorial at CVPR 2026
+      year: June 3, 2026
+      description:
+        - The Principles of Diffusion Models: Real-Time Continuous & Discrete Diffusion
+        - "[Our official webpage](https://sites.google.com/view/cvpr26-principles-of-diffusion/home)"
+
     - title: Area Chair of ICLR, ICML, NeurIPS
       year: 2025-
+
     - title: Elected member of IEEE Machine Learning for Signal Processing Technical Committee
       year: 2025-
+
     - title: Organized EXPO Workshop at NeurIPS 2025
       year: Dec. 2, 2025
-      description: 
+      description:
         - Creative and Protective AI for Music and Entertainment
-        - <a href="https://neurips.cc/virtual/2025/loc/san-diego/128679">NeurIPS Page</a> 
+        - "[NeurIPS Page](https://neurips.cc/Expo/Conferences/2025/workshop/Creative%20and%20Protective%20AI%20for%20Music%20and%20Entertainment)"
+
     - title: Organized and Delivered Tutorial at IJCNN 2025
       year: June 30, 2025
-      description: 
+      description:
         - Diffusion Models and Flows
-        - <a href="https://sites.google.com/view/diffusion-model-tutorial-ijcnn/home">Our official webpage</a>  
+        - "[Our official webpage](https://sites.google.com/view/diffusion-models-and-flows/home)"
+
     - title: Organized and Delivered Tutorial at ICASSP 2025
       year: Apr. 7, 2025
-      description: 
+      description:
         - Transforming Chaos into Harmony -- Diffusion Models in Audio Signal Processing
-        - <a href="https://sites.google.com/view/diffusionmodeltutorialicassp25/home">Our official webpage</a>
+        - "[Our official webpage](https://2025.ieeeicassp.org/tutorials/#:~:text=TUT%2D11:%20Transforming%20Chaos%20into%20Harmony%3A%20Diffusion%20Models%20in%20Audio%20Signal%20Processing)"
+
     - title: Organized Expo Workshop at NeurIPS 2024, Vancouver
       year: Dec. 10, 2024
-      description: 
+      description:
         - Efficient Content Creation and Editing through Deep Generative Models
-        - <a href="https://nips.cc/Expo/Conferences/2024/workshop/100325">NeurIPS Page</a>        
+        - "[NeurIPS Page](https://neurips.cc/Expo/Conferences/2024/workshop/100389)"
+
     - title: Organized and Delivered Tutorial at ISMIR 2024
       year: Nov. 10, 2024
-      description: 
-        - From White Noise to Symphony🎼 -- Diffusion Models for Music and Sound
-        - <a href="https://sites.google.com/view/diffusion-tutorial-ismir24/home">Our official webpage</a>  
+      description:
+        - From White Noise to Symphony -- Diffusion Models for Music and Sound
+        - "[Our official webpage](https://sites.google.com/view/diffusion-tutorial-ismir-2024/)"
+
     - title: Organized Social Event at ICLR 2024, Vienna
       year: May 7, 2024
-      description: 
+      description:
         - Recent advances on diffusion and GAN
-        - <a href="https://iclr.cc/virtual/2024/social/22316">ICLR Page</a>  
+        - "[ICLR Page](https://iclr.cc/virtual/2024/social/21668)"
+
     - title: Organized Expo Workshop at NeurIPS 2023, New Orleans
       year: Dec. 10, 2023
-      description: 
+      description:
         - Media Content Restoration and Editing with Deep Generative Models and Beyond
-        - <a href="https://neurips.cc/Expo/Conferences/2023/workshop/78406">NeurIPS Page</a>
-    - title: IEEE TPAMI, ACM TKDD Reviewer 
+        - "[NeurIPS Page](https://nips.cc/Expo/Conferences/2023/workshop/76876)"
+
+    - title: IEEE TPAMI, ACM TKDD Reviewer
       year: 2024
+
     - title: ICLR, ICML, NeurIPS Reviewer
       year: 2021-
       
 - title: Events and Invited Talks
   type: time_table
   contents: 
+    - title: Invited talks at KAIST and UNIST in South Korea
+      year: July 11- July 14, 2026
+      items:
+        - The Principles of Diffusion Models, Fast Generation       
+    - title: Invited talks at University of Bristol, UK
+      year: June 22- June 26, 2026
+      items:
+        - The Principles of Diffusion Models 
     - title: Invited talks at the Korea Institute for Advanced Study (KIAS), Hanyang University, and Sungkyunkwan University (SKKU) in Seoul
       year: Sep. 1- Sep. 4, 2025
       items:
